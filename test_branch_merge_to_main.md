@@ -17,4 +17,4 @@ Merge a local branch containing new files to main.
 
 ## Result
 
-In progress.
+Success.
