@@ -15,3 +15,8 @@ Create a new branch, create conflicting changes to both it and main, then attemp
 ## Result
 
 In progress.
+
+## Lessons learned
+
+- GitHub shows if the pull request can be automatically merged or not. If there is a conflict, it will still let you create the PR.
+  - GitHub even lets you resolve conflicts in-browser.
