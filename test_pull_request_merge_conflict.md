@@ -24,3 +24,4 @@ In progress.
 - GitHub shows if the pull request can be automatically merged or not. If there is a conflict, it will still let you create the PR.
   - GitHub even lets you resolve conflicts in-browser.
   - VSCode has tools to help visualize and fix merge conflicts.
+- If you delete a branch on GitHub, it will still show up as an origin branch locally. Do `git fetch --all --prune` to remove the dead origin branch.
