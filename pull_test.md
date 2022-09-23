@@ -11,4 +11,4 @@ Test pull on a file created remotely.
 
 ## Result
 
-In progress.
+Success.
