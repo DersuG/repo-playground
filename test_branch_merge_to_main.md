@@ -14,6 +14,8 @@ Merge a local branch containing new files to main.
 6. Create and push to remote branch (`git push --set-upstream origin branch_test`)
 7. Switch to main branch (`git checkout main`)
 8. Merge `branch_test` to main (`git merge branch_test`)
+9. Delete local `branch_test` (`git branch -d branch_test`)
+10. Delete remote `branch_test` (`git push origin -d branch_test`)
 
 ## Result
 
